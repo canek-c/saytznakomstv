@@ -1,0 +1,9 @@
+<meta name='amogys' content='width=device-width, initial-scale=1'/><html>
+<head>
+<title>amogys</title>
+</head>
+<cender><h1>amogys<h1></cender>
+<body>
+<img src="https://i.playground.ru/i/pix/3435749/image.jpg?320x300"/>
+</body>
+</html>
